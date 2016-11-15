@@ -1,0 +1,25 @@
+I PREPARATION 
+
+1) $ mkdir TP_solo
+$ cd TP_solo
+
+2) $ mkdir EnvDev
+$ cd EnvDev
+
+3) cd /home/sasl/shared/main3/env/
+$ emacs link &
+
+4) $ cd
+$cd InformatiqueGenerale/TP_solo/EnvDev/
+$ git clone https://github.com/PolytechUPMC-IED/tp-solo-ColetteVois.git
+
+
+II MAKEFILE
+
+1) cd /home/sasl/shared/main3/env/tools/lib/
+
+5) cd /home/sasl/eleves/main/3415249/InformatiqueGenerale/TP_solo/
+$ mkdir bin
+$ cd bin
+
+
